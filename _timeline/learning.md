@@ -19,5 +19,6 @@ events:
   - mit-scratch
   - sugar-neighborhood
   - minecraft-end-user
+  - etoys
 ---
 
