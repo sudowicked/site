@@ -20,6 +20,5 @@ slides:
   - microsoft-bob
   - ical
   - atm-affective
-  - windows-live-messenger
 ---
 
