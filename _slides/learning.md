@@ -27,5 +27,4 @@ slides:
   - learntomod
   - hackathon
   - hackerspace
-  - etoys
 ---
