@@ -18,6 +18,7 @@ events:
   - kidsim
   - mit-scratch
   - sugar-neighborhood
-  - minecraft-end-user
+  - minecraft-end-user 
+  - etoys
 ---
 
