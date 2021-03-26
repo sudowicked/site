@@ -15,6 +15,5 @@ events:
   - windows95
   - winamp
   - media-scrub
-  - windows-live-messenger
 ---
 
