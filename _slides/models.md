@@ -19,6 +19,7 @@ slides:
   - relational-agent
   - microsoft-bob
   - ical
-  - atm-affective
+  - atm-affective 
+  - windows-live-messenger
 ---
 
