@@ -20,3 +20,6 @@
 [submodule "images"]
 	path = images
 	url = https://github.com/sudowicked/images.git
+[submodule "extras"]
+	path = extras
+	url = https://github.com/sudowicked/extras.git
