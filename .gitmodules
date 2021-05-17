@@ -19,6 +19,6 @@
 [submodule "extras"]
 	path = extras
 	url = https://github.com/sudowicked/extras.git
-[submodule "bibliography"]
-	path = bibliography
-	url = https://github.com/sudowicked/bibliography.git
+[submodule "_bibliography"]
+	path = _bibliography
+	url = https://github.com/sudowicked/_bibliography.git
