@@ -10,10 +10,6 @@
 	path = _notes
 	url = https://github.com/pibook/notes.git
 	branch = master
-[submodule "_bibliography"]
-	path = _bibliography
-	url = https://github.com/pibook/bibliography.git
-	branch = master
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/sudowicked/_gallery.git
@@ -23,3 +19,6 @@
 [submodule "extras"]
 	path = extras
 	url = https://github.com/sudowicked/extras.git
+[submodule "bibliography"]
+	path = bibliography
+	url = https://github.com/sudowicked/bibliography.git
